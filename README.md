@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullStack developer from India</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="YOUR_GITHUB_USERNAME" />
+  <img src="https://komarev.com/ghpvc/?username=VISWANATHAN-S2309E&label=Profile%20views&color=0e75b6&style=flat" alt="VISWANATHAN-S2309" />
 </p>
 
 - 🌱 I’m currently learning **MySql, ExpressJs, NodeJs**  
