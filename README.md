@@ -67,5 +67,7 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VISWANATHAN-S2309&show_icons=true&locale=en" alt="VISWANATHAN-S2309"&hide=html,css&theme=tokyonight" />
+  <img align="center" 
+     src="https://github-readme-stats.vercel.app/api?username=VISWANATHAN-S2309&show_icons=true&locale=en&hide=html,css&theme=tokyonight" 
+     alt="VISWANATHAN-S2309" />
 </p>
