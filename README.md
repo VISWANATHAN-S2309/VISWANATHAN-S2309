@@ -7,7 +7,9 @@
 
 - 🌱 I’m currently learning **MySql, ExpressJs, NodeJs**  
 - 📫 How to reach me **viswa3104@gmail.com**
-
+<p align="center">
+  🔗 Check out my <a href="https://viswanathans.netlify.app" target="_blank">Portfolio</a>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/viswanathan-s2309" target="blank">
