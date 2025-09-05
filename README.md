@@ -5,8 +5,6 @@
 
 <p align="left">  </p>
 
-- 🔭 I’m currently working on **Emotion-Based Music Recommender**
-
 - 🌱 I’m currently learning **MySql,ExpressJs,NodeJs**
 
 - 📫 How to reach me **viswa3104@gmail.com**
