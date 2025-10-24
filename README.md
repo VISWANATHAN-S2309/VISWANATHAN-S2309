@@ -65,7 +65,7 @@
 
 <p>
  <img align="left" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISWANATHAN-S2309&layout=compact&langs_count=10&hide=c,cpp,shell,typescript,ruby,python,cython,html,css,php,swift,other&theme=tokyonight" />
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISWANATHAN-S2309&layout=compact&langs_count=10&hide=c,cpp,shell,typescript,ruby,python,c++,cython,html,css,php,swift,other&theme=tokyonight" />
 <p>
   <img align="center" 
      src="https://github-readme-stats.vercel.app/api?username=VISWANATHAN-S2309&show_icons=true&locale=en&hide=html,css&theme=tokyonight" 
